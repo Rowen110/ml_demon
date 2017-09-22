@@ -13,7 +13,7 @@ __author__ = 'fc.w'
 """
 if __name__ == "__main__":
     # pandas读入数据 格式：TV、Radio、Newspaper、Sales
-    data = pd.read_csv('./resources/Advertising.csv')
+    data = pd.read_csv('../../resources/regression/Advertising.csv')
     x = data[['TV', 'Radio', 'Newspaper']]
     y = data[['Sales']]
     # print x

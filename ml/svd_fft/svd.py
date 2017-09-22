@@ -22,7 +22,7 @@ def restore1(sigma, u, v, K):  # 奇异值、左特征向量、右特征向量
     return np.rint(a).astype('uint8')
 
 if __name__ == "__main__":
-    A = Image.open("./resource/6.son.png")
+    A = Image.open("../../resources/regression/6.son.png")
     output_path = r'.\Pic'
     if not os.path.exists(output_path):
         os.mkdir(output_path)

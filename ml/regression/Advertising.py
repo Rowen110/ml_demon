@@ -15,7 +15,7 @@ __author__ = 'fc.w'
 3. 线性回归demo、预测数据展示
 """
 if __name__ == "__main__":
-    path = './resources/Advertising.csv'
+    path = '../../resources/regression/Advertising.csv'
 
     # # 1. 手写读取数据
     # f = file(path)

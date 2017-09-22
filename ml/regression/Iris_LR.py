@@ -16,7 +16,7 @@ def iris_type(s):
     return it[s]
 
 if __name__ == "__main__":
-    path = u'./resources/iris.data'
+    path = u'../../resources/regression/iris.data'
     data = np.loadtxt(path, dtype=float, delimiter=',', converters={4: iris_type})
     # print data
     x, y = np.split(data, (4,), axis=1)  # 将数据的0到3列组成x，第4列得到y
