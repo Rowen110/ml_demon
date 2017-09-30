@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# @Time    : 2017/9/22 14:52
+# @Time    : 2017/9/22
 # @Author  : fc.w
 # @File    : Iris_DecisionTree.py
 

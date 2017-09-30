@@ -1,6 +1,6 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
-# @Time    : 2017/9/26 17:48
+# @Time    : 2017/9/26
 # @Author  : fc.w
 # @File    : 1.SVM.intro.py
 import numpy as np
