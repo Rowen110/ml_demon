@@ -1,5 +1,5 @@
 ## **背景**
-aaa
+基于sklearn机器学习框架算法
 
 ## **项目介绍**
 语言：python 2.7</br>
@@ -12,6 +12,7 @@ matplotlib-2.0.27
 numpy-1.13.0  
 scikit_learn-0.19.0  
 scipy-0.19.1-cp27  
+sklearn
 
 ## **项目结构介绍**
 — resources:  &ensp;&ensp;&ensp;&ensp;&ensp;&ensp; &ensp;&ensp; &ensp;&ensp;&emsp;&ensp; 数据目录</br>
