@@ -18,8 +18,15 @@ sklearn
 — resources:  &ensp;&ensp;&ensp;&ensp;&ensp;&ensp; &ensp;&ensp; &ensp;&ensp;&emsp;&ensp; 数据目录</br>
 — ml: &ensp;&ensp; &ensp;&ensp;&emsp;&ensp;&ensp;&ensp;&ensp; &ensp;&ensp; &ensp;&ensp; &ensp;&ensp; &ensp;&ensp; 机器学习算法目录 </br>
 &emsp;&emsp; — mat: &emsp;&emsp;&ensp;&emsp;&emsp;&ensp;&ensp; &emsp;&emsp;matplotlib画图demo </br>
+&emsp;&emsp;&emsp;&emsp; — em: &emsp;&emsp;&ensp;     EM</br>
+&emsp;&emsp;&emsp;&emsp; — gmm: &emsp;&emsp;&ensp;     GMM高斯混合模型</br>
+&emsp;&emsp;&emsp;&emsp; — hmm: &emsp;&emsp;&ensp;     HMM隐马尔科夫</br>
+&emsp;&emsp;&emsp;&emsp; — k-means: &emsp;&emsp;&ensp; K-Means聚类</br>
+&emsp;&emsp;&emsp;&emsp; — lda: &emsp;&emsp;&ensp;     LDA主题模型</br>
+&emsp;&emsp;&emsp;&emsp; — svm: &emsp;&emsp;&ensp;     SVM支持向量机</br>
 &emsp;&emsp;&emsp;&emsp; — regression: &emsp;&emsp;&ensp;      线性回归代码目录</br>
 &emsp;&emsp;&emsp;&emsp; — svd_fft: &emsp; &emsp;  &emsp;&ensp; &ensp;SVD奇异值分解、FFT逆傅里叶变换 Demo</br>
 &emsp;&emsp;&emsp;&emsp; — randomForest: &emsp;&ensp;决策树&随机森林
+
 
 
